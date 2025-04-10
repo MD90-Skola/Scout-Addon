@@ -1,4 +1,4 @@
-# CSGORoll Scout
+# CS2 Scout
 
 Visar vinstmöjligheter direkt på marknaden.
 
