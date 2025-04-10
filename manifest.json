@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "CSGORoll Card Info Overlay",
+    "version": "1.0",
+    "description": "Visa info (Name, Price, Procent) när du håller musen över ett kort på CSGORoll och trycker CTRL+SHIFT.",
+    "content_scripts": [
+      {
+        "matches": ["https://www.csgoroll.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "permissions": []
+  }
+  
